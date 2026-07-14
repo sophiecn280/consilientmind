@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100">
+<defs><linearGradient id="bg" x1="80" y1="60" x2="840" y2="1040"><stop stop-color="#d9dfd2"/><stop offset="1" stop-color="#78917e"/></linearGradient></defs>
+<rect width="900" height="1100" rx="40" fill="url(#bg)"/><circle cx="450" cy="392" r="172" fill="#f0d9bc"/>
+<path d="M273 390c5-122 73-205 182-205 107 0 178 77 180 203-43-46-86-74-146-73-82 2-120 31-216 75Z" fill="#29483d"/>
+<path d="M152 1100c15-302 111-473 298-473s283 171 298 473H152Z" fill="#203f34"/>
+<path d="M347 485c29 32 63 47 103 47s75-15 103-47" stroke="#a56552" stroke-width="8" stroke-linecap="round"/>
+<circle cx="385" cy="397" r="9" fill="#29483d"/><circle cx="518" cy="397" r="9" fill="#29483d"/>
+<text x="450" y="1030" text-anchor="middle" fill="#e9efe7" font-family="Arial" font-size="23" letter-spacing="3">REPLACE WITH FOUNDER PORTRAIT</text>
+</svg>
